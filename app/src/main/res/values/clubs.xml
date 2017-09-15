@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Clubs">
+        <item>Driver</item>
+        <item>3W</item>
+        <item>4I</item>
+        <item>5I</item>
+        <item>6I</item>
+        <item>7I</item>
+        <item>8I</item>
+        <item>9I</item>
+        <item>PW</item>
+        <item>56W</item>
+        <item>Putter</item>
+    </string-array>
+</resources>

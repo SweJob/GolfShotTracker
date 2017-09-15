@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Lies">
+      <item>Tee(peggad)</item>
+       <item>Tee(opeggad)</item>
+       <item>Fairway</item>
+        <item>Semiruff</item>
+        <item>Ruff</item>
+        <item>Sand(på)</item>
+        <item>Sand(pluggad)</item>
+        <item>Fringe</item>
+        <item>Green</item>
+    </string-array>
+</resources>
